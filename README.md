@@ -1,2 +1,1 @@
-# logistic-regression-prediction
-Use logistic regression to make predictions about heart abnormalities, Netflix ratings, etc.
+Use logistic regression to make predictions about heart abnormalities (provided data) and Netflix ratings (private, non-publishable data).
